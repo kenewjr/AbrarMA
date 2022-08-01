@@ -22,7 +22,7 @@ Hi everyone👋, I'm Abrar Muhammad Anwar. from Cilegon, Indonesia, and doing so
 ## Status
 ![](https://komarev.com/ghpvc/?username=kenewjr&color=blue&style=for-the-badge&label=VISITOR)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenewjr&theme=github_dark=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenewjr&theme=dark&show_icons=true=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenewjr&theme=dark&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
