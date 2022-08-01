@@ -8,7 +8,7 @@ Hi everyone👋, I'm Abrar Muhammad Anwar. from Cilegon, Indonesia, and doing so
 
 
 ## Status
-[![Visit Stats](https://komarev.com/ghpvc/?username=kenewjr&color=blue&style=for-the-badge&label=VISITOR)
+![](https://komarev.com/ghpvc/?username=kenewjr&color=blue&style=for-the-badge&label=VISITOR)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kenewjr)](https://github.com/LordDashMe/github-contribution-stats/)
 
